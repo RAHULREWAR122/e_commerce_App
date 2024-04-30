@@ -1,0 +1,29 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "title": "fan",
+        "description":"hey!,this is dummy data",
+        "price":1299,
+        "rating" : 4.6,
+        "img" :""
+      },
+      {
+        "id": 2,
+        "title": "Scooti",
+        "description":"hey!,this is dummy data",
+        "price":5599,
+        "rating" : 4.6,
+        "img" :""
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
